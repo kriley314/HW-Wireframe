@@ -39,7 +39,7 @@ header {
 #leftContainer {
     text-align: center;
     float: left;
-    width: 495px;
+    width: 555px;
     height: 270px;
     padding-top: 50px;
     background: #ebebeb;
@@ -50,17 +50,17 @@ header {
     margin-top: 40px;
     margin-left: 10px;
     padding-top: 20px;
-    width: 475px;
+    width: 535px;
     height: 180px;
-    background: gray;
-    color: rgb(226, 207, 207);
+    background: #777;
+    color: #ebebeb;
 }
 
 #h1h2h3 {
     margin-top: 30px;
     margin-left: 20px;
     text-align: center;
-    width: 435px;
+    width: 495px;
     height: 18px;
     padding-top: 17px;
     padding-bottom: 17px;
@@ -71,7 +71,7 @@ header {
 #pText {
     margin-top: 10px;
     margin-left: 20px;
-    width: 435px;
+    width: 495px;
     height: 18px;
     padding-top: 19px;
     padding-bottom: 17px;
@@ -82,7 +82,7 @@ header {
 #aside {
     text-align: center;
     float: right;
-    width: 450px;
+    width: 395px;
     height: 270px;
     padding-top: 50px;
     margin-left: 10px;
